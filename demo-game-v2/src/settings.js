@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["soap","boom","mouse"],collisionMatrix:[[false,false,true],[false,false,true],[true,true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/Maybank-v2/main-scene-noFB.fire",orientation:"landscape",jsList:[]};
